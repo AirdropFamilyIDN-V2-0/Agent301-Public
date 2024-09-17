@@ -15,7 +15,7 @@
 - Session Storage
 - Copy Semua query_id=xxxx / user=xxxx
 - Paste di hash.txt
-![image](https://github.com/user-attachments/assets/35eda71c-8082-42a0-9b27-0c7f0cb91b51)
+![image](https://github.com/user-attachments/assets/24996757-0e12-4a75-b716-ce6abd2f36a5)
 
 ## Cara Menggunakan Fitur Scan QR ( scanQR.js )
 - Jalankan script
