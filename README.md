@@ -34,6 +34,7 @@
 - Kirim kan command /info untuk mengetahui update an QR-Token.txt dari server Bot Tele
 - Kirim kan command /mau untuk mengambil QR-Token.txt dari server bot tele
 - Biasakan cek ulang QR-Token.txt yang didapat dari server bot tele karena terkadang ada kesalahan format, spasi kosong dll
+- Cek Berkala bot telegram QR Agent by ADFID untuk mendapatkan info/token terbaru
 
 ## Installation
 ```sh
