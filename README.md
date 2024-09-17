@@ -29,7 +29,7 @@
 ### Ingin Lebih Banyak Token ?
 - Saling Berbagi Token dengan kawanmu cok, w udah menyediakan bot telegram
 - Copy Semua Token dari QR-Token.txt mu
-- Buka Bot Tele [qrtoken_bot](https://t.me/QR_Agent_bot)
+- Buka Bot Tele [QR Agent by ADFID](https://t.me/QR_Agent_bot)
 - Kirim Kan semua QR-Token.txt mu ke bot
 - Kirim kan command /info untuk mengetahui update an QR-Token.txt dari server Bot Tele
 - Kirim kan command /mau untuk mengambil QR-Token.txt dari server bot tele
