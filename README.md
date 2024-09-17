@@ -40,7 +40,7 @@
 
 ## Installation
 ```sh
-git clone https://github.com/AirdropFamilyIDN-V2-0/Agent301.git
+git clone https://github.com/AirdropFamilyIDN-V2-0/Agent301-Public.git
 ```
 ```sh
 cd Agent301
