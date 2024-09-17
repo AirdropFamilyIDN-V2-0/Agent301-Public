@@ -20,11 +20,11 @@
 ![image](https://github.com/user-attachments/assets/24996757-0e12-4a75-b716-ce6abd2f36a5)
 
 ## Cara Menggunakan Fitur Scan QR ( scanQR.js )
+- Pastikkan hash.txt sudah di isi dengan query/user kalian
 - Jalankan script
   ```sh
   node scanQR.js
   ```
-- Pastikkan hash.txt sudah di isi dengan query/user kalian
 - Pilih No 1, untuk melakukan Dump QR Token
 - Run ulang, dan pilih No 2
 
