@@ -19,6 +19,17 @@
 - Paste di hash.txt
 ![image](https://github.com/user-attachments/assets/24996757-0e12-4a75-b716-ce6abd2f36a5)
 
+## Installation
+```sh
+git clone https://github.com/AirdropFamilyIDN-V2-0/Agent301-Public.git
+```
+```sh
+cd Agent301-Public
+```
+```sh
+npm install axios
+```
+
 ## Cara Menggunakan Fitur Scan QR ( scanQR.js )
 - Pastikkan hash.txt sudah di isi dengan query/user kalian
 - Jalankan script
@@ -37,17 +48,6 @@
 - Kirim kan command /mau untuk mengambil QR-Token.txt dari server bot tele
 - Biasakan cek ulang QR-Token.txt yang didapat dari server bot tele karena terkadang ada kesalahan format, spasi kosong dll
 - Cek Berkala bot telegram QR Agent by ADFID untuk mendapatkan info/token terbaru
-
-## Installation
-```sh
-git clone https://github.com/AirdropFamilyIDN-V2-0/Agent301-Public.git
-```
-```sh
-cd Agent301
-```
-```sh
-npm install axios
-```
 
 ## Channel Telegram
 - [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN)
