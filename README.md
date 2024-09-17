@@ -13,7 +13,7 @@
 - Devtools/Inspect Element
 - Application
 - Session Storage
-- Klik __Telegram_initParams__
+- Klik _telegram_initParams_
 - Lihat kebawah
 - Copy Semua query_id=xxxx / user=xxxx
 - Paste di hash.txt
